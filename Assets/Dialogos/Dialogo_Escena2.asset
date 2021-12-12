@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cd9b7a667a06564084f21b141a69010, type: 3}
+  m_Name: Dialogo_Escena2
+  m_EditorClassIdentifier: 
+  mensaje:
+  - personaje: {fileID: 11400000, guid: 907435aff12dc9b43b8a6991eecec392, type: 2}
+    dialogo: "\xA1Ah! \xBFQu\xE9 es este lugar? Me da un mal presentimiento todo
+      esto."
+  - personaje: {fileID: 11400000, guid: ab33d57728421f24cb6b1d2614b68686, type: 2}
+    dialogo: Hola que tal hijo, me llamo Oh II-nam te veo un poco asustado.
+  - personaje: {fileID: 11400000, guid: 907435aff12dc9b43b8a6991eecec392, type: 2}
+    dialogo: "Hola, la verdad es que estoy un poco confundido de todo esto. Solo
+      me dijeron que si quer\xEDa ganar dinero por jugar algunos juegos."
+  - personaje: {fileID: 11400000, guid: ab33d57728421f24cb6b1d2614b68686, type: 2}
+    dialogo: "Fue lo mismo que me dijeron a m\xED, hijo. Pero no te preocupes, todos
+      estamos aqu\xED por una raz\xF3n, \xBFCu\xE1l es la tuya?"
+  - personaje: {fileID: 11400000, guid: 907435aff12dc9b43b8a6991eecec392, type: 2}
+    dialogo: "Bueno, pues tengo problemas de dinero, ya estoy harto de no tener lo
+      que yo quiero, de poderle dar a mi hija lo que merece. \xBFCu\xE1l es la suya?"
+  - personaje: {fileID: 11400000, guid: ab33d57728421f24cb6b1d2614b68686, type: 2}
+    dialogo: "Entiendo hijo, todos podemos pasar por problemas bastante graves. Yo
+      estoy aqu\xED porque tengo un tumor en mi cerebro hijo, no me queda mucho tiempo
+      y la verdad quiero divertirme, aunque sea en mis \xFAltimos momentos."
+  - personaje: {fileID: 11400000, guid: 907435aff12dc9b43b8a6991eecec392, type: 2}
+    dialogo: Lo siento mucho la verdad. Mi nombre es Seong Gi-Hun.
+  - personaje: {fileID: 11400000, guid: ab33d57728421f24cb6b1d2614b68686, type: 2}
+    dialogo: "Mucho gusto Gi-Hun, veo que fuiste el \xFAltimo participante en registrarte
+      eh, hijo."
+  - personaje: {fileID: 11400000, guid: 907435aff12dc9b43b8a6991eecec392, type: 2}
+    dialogo: "Oh s\xED, soy el 456. \xA1Oiga! Usted fue el primero, vea es el numero
+      001"
+  - personaje: {fileID: 11400000, guid: ab33d57728421f24cb6b1d2614b68686, type: 2}
+    dialogo: "Pero qu\xE9 casualidad jaja"
+  - personaje: {fileID: 11400000, guid: 907435aff12dc9b43b8a6991eecec392, type: 2}
+    dialogo: "Vea, parece que ya va a empezar el primer juego, ya quiero saber cu\xE1l
+      es."
+  - personaje: {fileID: 11400000, guid: ab33d57728421f24cb6b1d2614b68686, type: 2}
+    dialogo: "Ser\xE1 divertido ya ver\xE1s, disfruta el juego hijo y mucha suerte"

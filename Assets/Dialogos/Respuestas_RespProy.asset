@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99fc03aabf870104185288ba87da6a82, type: 3}
+  m_Name: Respuestas_RespProy
+  m_EditorClassIdentifier: 
+  mensaje:
+  - dialogo: 1.- Mantener la calma
+  - dialogo: 2.- Correr
+  - dialogo: 3.- No hacer nada
+  - dialogo: 4.- Gritar
+  - dialogo: '1.- Una superficie endeble '
+  - dialogo: "2.- Debajo de una mesa de pl\xE1stico"
+  - dialogo: 3.- El marco de una puerta o un mueble resistente
+  - dialogo: "4.- Arriba de un sill\xF3n"
+  - dialogo: "1.- La m\xE1s peligrosa"
+  - dialogo: "2.- La ruta de evacuaci\xF3n"
+  - dialogo: 3.- Por una ventana
+  - dialogo: "4.- Por el \xE1tico "
+  - dialogo: 1.- Ventanas y espejos
+  - dialogo: 2.- Puertas
+  - dialogo: "3.- La ruta de evacuaci\xF3n"
+  - dialogo: 4.- Muebles
+  - dialogo: 1.- Focos
+  - dialogo: 2.- Suministros de internet y cable
+  - dialogo: 3.- Monitores
+  - dialogo: 4.- Los suministros de gas, agua y electricidad
+  - dialogo: "1.- Los puntos de reuni\xF3n"
+  - dialogo: 2.- A los vecinos
+  - dialogo: 3.- Los postes, cables y marquesinas
+  - dialogo: "4.- Ayudar a los dem\xE1s"
+  - dialogo: 1.- Punto de acceso
+  - dialogo: 2.- La banqueta
+  - dialogo: "3.- Puntos de reuni\xF3n"
+  - dialogo: "4.- Centro de polic\xEDas"
+  - dialogo: "1.- Lo m\xE1s que podamos para ver rrss"
+  - dialogo: 2.- Lo menos posible, solo para emergencias
+  - dialogo: 3.- No usarlo para nada
+  - dialogo: 4.- Para tomar fotos en todo momento
+  - dialogo: 1.- Revisar la estructura de nuestro hogar
+  - dialogo: "2.- Salir del pa\xEDs"
+  - dialogo: 3.- Ir de fiesta
+  - dialogo: 4.- Hacer un reporte para redes sociales
+  - dialogo: 1.- Revisar estructuras
+  - dialogo: 2.- Alertar a las autoridades
+  - dialogo: 3.- Encender un cerillo o velas
+  - dialogo: 4.- Ver la TV

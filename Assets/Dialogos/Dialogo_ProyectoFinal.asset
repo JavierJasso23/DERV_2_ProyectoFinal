@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cd9b7a667a06564084f21b141a69010, type: 3}
+  m_Name: Dialogo_ProyectoFinal
+  m_EditorClassIdentifier: 
+  mensaje:
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: "Hola Spiderman, \xA1Bienvenido a mi juego del mal! Justo antes de entrar
+      a este lugar te inserte un chip de control, as\xED que no podr\xE1s atacar
+      a Venom hasta que no contestes correctamente mis preguntas."
+  - personaje: {fileID: 11400000, guid: c2b60b0a6edc50d48b531b8880077fee, type: 2}
+    dialogo: "No puede ser, solo termina con esto, \xA1empieza ya!"
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: "Es lo primero que debes de hacer cuando comienza un terremoto\u2026"
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: 'Lo mejor que podemos hacer cuando estamos en un edificio alto es resguardarnos
+      en lugares de menor riesgo como:'
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: "Si podemos salir del edificio u hogar, \xBFqu\xE9 ruta debemos de seguir?"
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: "Mientras estemos saliendo del edificio, \xBFqu\xE9 objetos debemos
+      de evitar?"
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: "Cuando salgamos del edificio, \xBFqu\xE9 suministros debemos de cerrar?"
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: "Una vez afuera del edificio, \xBFqu\xE9 debemos evitar?"
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: 'Es el lugar donde debemos de ir en caso de emergencia, se le conoce
+      como:'
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: "Cuando estemos a salvo en el punto de reuni\xF3n debemos de usar el
+      celular ______:"
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: 'Cuando en un principio todo se calme debemos de:'
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: 'Esto no debemos de hacer hasta comprobar que no hay fugas de gas:'
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: "Muy bien, esas fueron todas las preguntas, ahora a ver quien gano\u2026"
+  - personaje: {fileID: 11400000, guid: b2db418f49bfa9a42904479bcb0effd2, type: 2}
+    dialogo: "Muy bien, esas fueron todas las preguntas, ahora a ver quien gano\u2026"

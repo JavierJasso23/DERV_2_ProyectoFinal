@@ -1,0 +1,19 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.1f1 (c20c6d589440) revision 12717165'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1348; Version 2009; 64bit' Language: 'es' Physical Memory: 7130 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker10
+-projectPath
+C:/Users/Yaris/Desktop/Desarrollo de entornos de realidad virtual/Game/DERV_2_ProyectoFinal
+-logFile
+Logs/AssetImportWorker10.log
+-srvPort
+62634
+Successfully changed project path to: C:/Users/Yaris/Desktop/Desarrollo de entornos de realidad virtual/Game/DERV_2_ProyectoFinal
