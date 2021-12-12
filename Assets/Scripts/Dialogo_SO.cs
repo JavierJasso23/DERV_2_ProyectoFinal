@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Dialogo_SO : MonoBehaviour
@@ -132,17 +133,7 @@ public class Dialogo_SO : MonoBehaviour
             }
             indexActual++;
             YouCan = false;
-            habilitarBTN.SetActive(true);
-        }
-
-        if (Input.GetKeyDown(KeyCode.Q) && activoQ)
-        {
-            contenedorDialogo.SetActive(false);
-            indexActual = -1;
-            texto.text =  "Sin Texto";
-            image.sprite = imgDefecto;
-            StopCoroutine("mostrarTexto");
-            YouCan = true;
+            StartCoroutine("TerminarJuego");
         }
 
         //Respuestas
@@ -247,6 +238,22 @@ public class Dialogo_SO : MonoBehaviour
         respuesta3.text = txtRespuestas.getDatosRespuesta(indexActResp).dialogo;
         indexActResp++;
         respuesta4.text = txtRespuestas.getDatosRespuesta(indexActResp).dialogo;
+    }
+
+    IEnumerator TerminarJuego()
+    {
+        int timer = 0;
+        while (true)
+        {
+            
+            if (timer == 3)
+            {
+                SceneManager.LoadScene(2);
+                StopAllCoroutines();
+            }
+            timer++;
+            yield return new WaitForSeconds(1f);
+        }
     }
 
 }
